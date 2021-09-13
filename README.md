@@ -1,4 +1,4 @@
-# Pandas Homework
+# Pandas
 
 This repository contains the documents that resulted from the pandas homework. From the two options given, the chosen option was number 1 where we worked on aquiring data for a game called Heroes of Pymoli. The final report includes each of the following:
 
